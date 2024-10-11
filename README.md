@@ -3,3 +3,4 @@ PsychologyObjectives
 SetupGuide
 BehavioralFeatures
 DependenciesList
+CodeExamples

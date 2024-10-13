@@ -4,3 +4,4 @@ SetupGuide
 BehavioralFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings

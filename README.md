@@ -5,3 +5,4 @@ BehavioralFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide

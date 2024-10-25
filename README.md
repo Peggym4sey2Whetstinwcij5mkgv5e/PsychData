@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 PsychologyFAQ
 Changelog
+TestingInstructions

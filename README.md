@@ -12,3 +12,4 @@ PsychologyFAQ
 Changelog
 TestingInstructions
 BehavioralPerformance
+CommunityResources
